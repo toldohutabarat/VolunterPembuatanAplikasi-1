@@ -221,6 +221,7 @@ Berikut daftar Volunter yang diterima:
 * Vini Jumatul Fitri, [LinkedIn](https://www.linkedin.com/in/vini-jumatul-fitri-303190179/).
 
 ### W
+* Wahyu Francesco Toldo Hutabarat, [LinkedIn](https://www.linkedin.com/in/wahyu-francesco-toldo-hutabarat-767194195/).
 * Wahyu Suseno, [LinkedIn](https://www.linkedin.com/in/suseno-wahyus/).
 * Wiweka Premana, [GitHub](https://github.com/wiwekapremana).
 
